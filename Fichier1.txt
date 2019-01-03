@@ -1,2 +1,2 @@
-Ajout d'un fichier texte quelconque (je ne connaît pas encore de langage 
+Ajout d'un fichier texte quelconque (je ne connaîs pas encore de langage 
 de programmation...)
